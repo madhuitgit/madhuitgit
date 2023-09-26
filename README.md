@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @madhuitgit
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Java Fullstack course
-- 
+- 🌱 I am a Java developer specializing in full-stack development
 
 
 
